@@ -1,9 +1,7 @@
 ---
 title: Git_1
 date: 2021-01-06 16:51:46
-tags:
--Git
--Tutorial
+tags: [Git,Tutorial]
 ---
 # Basic Git operations in Git bash
 ## 使用本地文件生成git库
